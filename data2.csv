@@ -1,0 +1,16 @@
+Id,Outlook,Temperature,Humidity,Wind,Play
+1,sunny,hot,high,weak,no
+2,sunny,hot,low,strong,no
+3,overcast,hot,high,weak,yes
+4,rainy,mild,high,weak,hesitate
+5,rainy,cool,normal,weak,yes
+6,rainy,cool,low,strong,no
+7,overcast,cool,normal,strong,yes
+8,sunny,mild,high,weak,no
+9,sunny,cool,normal,weak,yes
+10,rainy,mild,low,weak,hesitate
+11,sunny,mild,normal,strong,yes
+12,overcast,mild,high,strong,yes
+13,overcast,hot,normal,weak,hesitate
+14,rainy,mild,high,strong,no
+15,sunny,cool,normal,strong,no
